@@ -16,6 +16,11 @@
 - 🌱 Learning **Advanced JavaScript, Node.js, React, and Cloud Technologies**
 - 💬 Ask me about **React, Express.js, MongoDB, REST APIs**
 - ⚡ Fun fact: I love solving real-world problems and making tools that automate tasks!
+- 🧠 Passionate about clean code, scalable architecture, and developer productivity
+- 🎯 Constantly improving my skills by building real projects and debugging complex challenges
+- 🤝 Open to collaborating on JavaScript/React projects, backend systems, and open-source
+- 🚀 Exploring AI integrations, cloud deployments, and performance optimization
+- 📚 Believer in continuous learning and building first, perfecting later
 
 ---
 
