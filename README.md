@@ -24,6 +24,19 @@
 
 ---
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jakiulhasan/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:mdjakiulhasan17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://github.com/jakiulhasan"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://dev.to/md_jakiulhasan_729bd377c"><img src="https://skillicons.dev/icons?i=dev"/></a>
+  <a href="https://discord.com/users/jakiul_hasan"><img src="https://skillicons.dev/icons?i=discord"/></a>
+</p>
+
+
+---
+
 ### 🛠️ Tech Stack
 
 #### **Frontend**
@@ -56,10 +69,3 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
-</p>
