@@ -76,16 +76,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project                        | Description                                 | Tech                 | Link           |
-| ------------------------------ | ------------------------------------------- | -------------------- | -------------- |
-| **Online Learning Platform**   | Full course management system (CRUD + Auth) | React, Node, MongoDB | 🔗 Live / Repo |
-| **Auto Form Filler Extension** | Chrome extension that autofills form fields | JavaScript           | 🔗 Repo        |
-| **Portfolio Website**          | Modern & clean personal portfolio           | React + Tailwind     | 🔗 Live / Repo |
-
----
-
 ### 📊 GitHub Stats
 
 |                                                                                       Top Languages                                                                                        |                                                                           GitHub Stats                                                                           |                                                      GitHub Streak                                                      |
