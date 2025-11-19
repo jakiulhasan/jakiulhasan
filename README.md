@@ -39,14 +39,34 @@
 
 ### 🛠️ Tech Stack
 
-#### **Frontend**
-- React • TailwindCSS • JavaScript (ES6+) • HTML5 • CSS3 • Vite
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" style="margin-right:10px;"/>
+</p>
 
-#### **Backend**
-- Node.js • Express.js • MongoDB • REST API
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=rest" alt="REST API" style="margin-right:10px;"/>
+</p>
 
-#### **Tools & Others**
-- Git • GitHub • VS Code • Firebase • Vercel • Netlify
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" style="margin-right:10px;"/>
+</p>
+
 
 ---
 
