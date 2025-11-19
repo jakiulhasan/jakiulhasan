@@ -83,3 +83,4 @@
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakiulhasan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakiulhasan&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakiulhasan&theme=transparent&hide_border=true) |
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakiulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
