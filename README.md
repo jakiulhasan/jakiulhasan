@@ -37,6 +37,7 @@
   <a href="https://github.com/jakiulhasan"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="https://dev.to/md_jakiulhasan_729bd377c"><img src="https://skillicons.dev/icons?i=dev"/></a>
   <a href="https://discord.com/users/jakiul_hasan"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://x.com/Jakiul_hasan_"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
 
 ---
