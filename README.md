@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="./banner/github_banner.jpg" alt="Hello world">
 
 <br/>
 
@@ -13,10 +13,10 @@
   </ul>
 </div>
 
-
 ---
 
 ### 🚀 About Me
+
 - 🔭 Currently working on **modern web apps & backend APIs**
 - 🌱 Learning **Advanced JavaScript, Node.js, React, and Cloud Technologies**
 - 💬 Ask me about **React, Express.js, MongoDB, REST APIs**
@@ -39,12 +39,12 @@
   <a href="https://discord.com/users/jakiul_hasan"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
-
 ---
 
 ### 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin-right:10px;"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" style="margin-right:10px;"/>
@@ -55,6 +55,7 @@
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin-right:10px;"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="margin-right:10px;"/>
@@ -63,6 +64,7 @@
 </p>
 
 ### Tools & Others
+
 <p>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin-right:10px;"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin-right:10px;"/>
@@ -72,26 +74,22 @@
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" style="margin-right:10px;"/>
 </p>
 
-
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| **Online Learning Platform** | Full course management system (CRUD + Auth) | React, Node, MongoDB | 🔗 Live / Repo |
-| **Auto Form Filler Extension** | Chrome extension that autofills form fields | JavaScript | 🔗 Repo |
-| **Portfolio Website** | Modern & clean personal portfolio | React + Tailwind | 🔗 Live / Repo |
+| Project                        | Description                                 | Tech                 | Link           |
+| ------------------------------ | ------------------------------------------- | -------------------- | -------------- |
+| **Online Learning Platform**   | Full course management system (CRUD + Auth) | React, Node, MongoDB | 🔗 Live / Repo |
+| **Auto Form Filler Extension** | Chrome extension that autofills form fields | JavaScript           | 🔗 Repo        |
+| **Portfolio Website**          | Modern & clean personal portfolio           | React + Tailwind     | 🔗 Live / Repo |
 
 ---
 
 ### 📊 GitHub Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
+|                                                                                       Top Languages                                                                                        |                                                                           GitHub Stats                                                                           |                                                      GitHub Streak                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakiulhasan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakiulhasan&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakiulhasan&theme=transparent&hide_border=true) |
 
-
 ---
-
-
