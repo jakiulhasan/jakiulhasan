@@ -1,3 +1,8 @@
+<!--- banner --->
+<img src="./banner/github_banner.png" alt="Hello world">
+
+<br/>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jakiul Hasan</h1></summary>
