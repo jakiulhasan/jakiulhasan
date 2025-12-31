@@ -16,18 +16,23 @@
 ---
 
 ### 🚀 About Me
-
-- 🔭 Currently working on **modern web apps & backend APIs**
-- 🌱 Learning **Advanced JavaScript, Node.js, React, and Cloud Technologies**
-- 💬 Ask me about **React, Express.js, MongoDB, REST APIs**
-- ⚡ Fun fact: I love solving real-world problems and making tools that automate tasks!
-- 🧠 Passionate about clean code, scalable architecture, and developer productivity
-- 🎯 Constantly improving my skills by building real projects and debugging complex challenges
-- 🤝 Open to collaborating on JavaScript/React projects, backend systems, and open-source
-- 🚀 Exploring AI integrations, cloud deployments, and performance optimization
-- 📚 Believer in continuous learning and building first, perfecting later
+Hi, I’m a MERN stack web developer who loves coding and building web applications.
+I’m currently exploring Next.js and TypeScript to improve my skills.
+I enjoy learning new technologies and adapting quickly to new challenges.
+Always excited to grow and create better solutions through code.
 
 ---
+
+### ⚒️ Current Activity
+
+- 🔭 Currently Exploring Next.js and Typescript
+- 🧠 Working on **Cyber Security Website**
+- 💻 Building full-stack projects using the MERN stack
+- 🚀 Improving problem-solving and clean coding practices
+- 📚 Learning modern web development tools and best practices
+
+---
+
 
 ### 🌐 Connect With Me
 
@@ -35,7 +40,6 @@
   <a href="https://www.linkedin.com/in/jakiulhasan/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:mdjakiulhasan17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://github.com/jakiulhasan"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://dev.to/md_jakiulhasan_729bd377c"><img src="https://skillicons.dev/icons?i=dev"/></a>
   <a href="https://discord.com/users/jakiul_hasan"><img src="https://skillicons.dev/icons?i=discord"/></a>
   <a href="https://x.com/Jakiul_hasan_"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
